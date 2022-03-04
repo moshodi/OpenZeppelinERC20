@@ -1,15 +1,7 @@
-# Basic Sample Hardhat Project
+# Sample ERC-20 Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project demonstrates a basic Hardhat ERC-20 use case. It comes with a token contract, a sample script that deploys that token contract, and a rinkeby deployment set up.
 
-Try running some of the following tasks:
+View the sample token on rinkeby etherscan using the link below:
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+https://rinkeby.etherscan.io/token/0x985f2d87A87Cfd76314e0733e561A6967E914AF8
